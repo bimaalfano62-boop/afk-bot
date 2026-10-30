@@ -1,0 +1,15 @@
+{
+  "name": "selfbot-afk-watch",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@snazzah/davey": "latest",
+    "discord.js-selfbot-v13": "latest",
+    "libsodium-wrappers": "latest",
+    "opusscript": "latest"
+  }
+}
